@@ -33,3 +33,5 @@ Edit `merge_tiles.py` to specify the area and the zoom level you want, it's just
 Then, run `$ python merge_tiles.py` and get `map_s.jpg` for satellite or `map_r.png` for roads.
 
 ![Google Maps Tiles](https://raw.github.com/nst/gmap_tiles/master/gmap.png)
+
+Note: merging the tiles requires [Python Image Library](http://www.pythonware.com/products/pil/).
