@@ -35,3 +35,7 @@ Then, run `$ python merge_tiles.py` and get `map_s.jpg` for satellite or `map_r.
 ![Google Maps Tiles](https://raw.github.com/nst/gmap_tiles/master/gmap.png)
 
 Note: merging the tiles requires [Python Image Library](http://www.pythonware.com/products/pil/).
+
+### Swiss Topo Tiles
+
+You can do the same with Swiss Topo maps: [https://www.github.com/nst/swiss_topo_tiles](https://www.github.com/nst/swiss_topo_tiles).
