@@ -9,7 +9,7 @@ Edit `download_tiles.py` to specify the area and the zoom level you want.
 
     satellite = True    # roads if false
 
-You can easily find coordinates with [http://itouchmap.com/latlong.html](http://itouchmap.com/latlong.html).
+You can easily find coordinates with [https://getlatlong.net/](https://getlatlong.net/).
 
 Then, run `$ python download_tiles.py` and get individual tiles:
 
